@@ -1,3 +1,3 @@
 # BankMarketing
 
-This is a repsitory for associative rule mining for UCI bank marketing dataset using R.
+It is a repository for associative rule mining using UCI bank marketing dataset and R programming language.
